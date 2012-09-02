@@ -27,7 +27,7 @@ package com.saansol.algorithms.recursion;
  * @author Abhijit Shingate
  * 
  */
-public class StringCombination {
+public class Combination {
 
 	public static void combination(String input, String current, int lastIndex) {
 		int length = input.length();
